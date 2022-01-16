@@ -1,2 +1,2 @@
-# dappblocks
+# DappBlocks
 Dapp Tutorials and Projects
